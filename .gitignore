@@ -1,1 +1,4 @@
 production.log
+*.log
+
+special/*
