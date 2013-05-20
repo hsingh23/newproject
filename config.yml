@@ -1,2 +1,2 @@
 test: true
-    type: rspec
+    type: minitest
