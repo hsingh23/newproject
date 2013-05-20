@@ -1,2 +1,2 @@
 test: true
-    type: test unit
+    type: rspec
