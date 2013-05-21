@@ -2,3 +2,4 @@ production.log
 *.log
 
 special/*
+test.js
