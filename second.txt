@@ -1,6 +1,6 @@
-This is the second file.
+This is the Second file.
 
-This is not the first file.
+This is not the First file.
 
-Hello, I am the still the second file,
+Hello, I am the still the Second file,
 and I'm here to stay
