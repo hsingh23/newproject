@@ -1,3 +1,6 @@
 This is the second file.
 
 This is not the first file.
+
+Hello, I am the still the second file,
+and I'm here to stay
