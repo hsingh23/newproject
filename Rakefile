@@ -7,5 +7,5 @@ end
 
 
 def run_tests
-  rspec tests/
+  rspec "tests/"
 end
