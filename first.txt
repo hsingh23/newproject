@@ -5,3 +5,7 @@ This is the second line.
 This is the third line.
 
 This is the last line.
+
+Where did my newline go.
+
+Oh, thats right, Git removed it
